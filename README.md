@@ -1,13 +1,27 @@
-# Lamenta??o ? vers?es de teste
+﻿# Lamentação — versões de teste
 
-Downloads oficiais do jogo e atualiza??es do launcher.
+[Baixar o launcher com a versão 0.1.1](https://github.com/Sete7-Ruan/lamentacao-updates/releases/download/v0.1.1/Lamentacao_Launcher_Windows.zip)
 
-1. Abra a se??o Releases e baixe o ZIP do launcher.
-2. Extraia a pasta inteira e abra LamentacaoLauncher.exe.
-3. Clique em Jogar. O launcher instala os arquivos iniciais e verifica atualiza??es.
+## Quem já tem o launcher
 
-N?o precisa instalar Unity, Git, Python ou Steam. Depois da primeira instala??o, ? poss?vel jogar offline. Atualiza??es baixam apenas arquivos alterados; os saves s?o preservados.
+Feche o jogo, abra o launcher conectado à internet e aguarde a verificação, ou clique em **Atualizar**. A versão instalada deve aparecer como **0.1.1**. Não precisa reinstalar o launcher: o endereço de atualização continua o mesmo.
 
-O c?digo e os assets de desenvolvimento ficam em um reposit?rio privado. Cr?ditos e licen?as acompanham o jogo. Os modelos originais n?o s?o disponibilizados separadamente.
+A migração da 0.1.0 transfere aproximadamente **1,2 MB**, em 16 arquivos alterados. Os arquivos iguais são aproveitados e os saves são preservados. Depois de atualizar, outra verificação não deve baixar nada.
 
-Para relatar um problema, informe a vers?o, a fita, o local e como reproduzir.
+## Primeira instalação
+
+1. Baixe o ZIP pelo link acima.
+2. Extraia a pasta inteira e abra `LamentacaoLauncher.exe`.
+3. Aguarde a instalação e clique em **Jogar**.
+
+Não precisa de Unity, Git, Python ou Steam. Depois da primeira instalação, é possível jogar offline.
+
+## Versão 0.1.1
+
+Quatro fitas cinematográficas, investigação por documentos e diário, flashback jogável, fotografias revisadas, áudio não verbal e melhorias de iluminação. Para ver a narrativa nova inteira, inicie a fita sem continuar um checkpoint antigo.
+
+[Notas completas da atualização](https://github.com/Sete7-Ruan/lamentacao-updates/releases/tag/v0.1.1)
+
+O código e os assets de desenvolvimento ficam em um repositório privado. Créditos e licenças acompanham o jogo. Os modelos originais não são disponibilizados separadamente.
+
+Para relatar um problema, informe a versão, a fita, o local e como reproduzir.
