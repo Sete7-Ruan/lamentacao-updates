@@ -1,26 +1,29 @@
-# Lamentação — versões de teste
+# LAMENTAÇÃO
 
-[Baixar o launcher com a versão 0.1.3](https://github.com/Sete7-Ruan/lamentacao-updates/releases/download/v0.1.3/Lamentacao_Launcher_Windows.zip)
+Horror 3D em primeira pessoa, low poly/PSX e estética VHS. Campanha de oito fitas com cinematics, documentos, memórias jogáveis, puzzles e encerramento narrativo.
 
-## Quem já tem o launcher
+## Jogar — versão 0.2.0
 
-Feche o jogo, abra o launcher conectado à internet e aguarde a verificação, ou clique em **Atualizar**. Confira **0.1.3**. Não precisa reinstalar o launcher.
+[Baixar launcher para Windows 64 bits](https://github.com/Sete7-Ruan/lamentacao-updates/releases/download/v0.2.0/Lamentacao_Launcher_Windows.zip).
 
-A atualização da 0.1.2 transfere aproximadamente **845 KB**, em 8 arquivos alterados. Arquivos iguais são aproveitados; saves e preferências ficam fora da instalação.
+Extraia o ZIP inteiro e abra **LamentacaoLauncher.exe**. O pacote inclui a base para instalação offline; conectado à internet, o launcher verifica as próximas atualizações. Não precisa de Unity ou Steam.
 
-## Novidades da 0.1.3
+Quem já possui o launcher deve fechar o jogo e usar **Atualizar**. Confira a versão **0.2.0**. Arquivos inalterados são aproveitados, e os saves ficam separados da instalação.
 
-- **Brilho** em **Opções → Vídeo**, de 100% a 200%, com ajuste imediato, preferência salva e botão **Padrão**. Também disponível pela pausa.
-- Tela **Feito na Unity** removida; introdução **Criado por @dtzin77** preservada.
+[Alterações da versão e downloads](https://github.com/Sete7-Ruan/lamentacao-updates/releases/tag/v0.2.0).
 
-[Notas completas](https://github.com/Sete7-Ruan/lamentacao-updates/releases/tag/v0.1.3)
+## Controles
 
-## Primeira instalação
+WASD: andar · Mouse: olhar · SHIFT: correr · ESPAÇO: pular · E: interagir · F: lanterna · TAB: inventário · J: documentos · 1–7/roda: selecionar item · Clique esquerdo: usar · ESC: pausa.
 
-1. Baixe o ZIP pelo link acima.
-2. Extraia a pasta inteira e abra `LamentacaoLauncher.exe`.
-3. Aguarde a instalação e clique em **Jogar**.
+Confirme a leitura dos documentos obrigatórios. Os puzzles possuem demonstrações visuais e usam E para pegar, encaixar ou girar. Esconder-se é opcional.
 
-Não precisa de Unity, Git, Python ou Steam. Após a primeira instalação, é possível jogar offline.
+Brilho ajustável em **Opções → Vídeo**. Música, efeitos, criaturas e passos têm volumes separados. O microfone é opcional e começa desligado.
 
-O jogo continua em desenvolvimento. Para relatar um problema, informe a versão, a fita, o local e como reproduzir. Código e assets de desenvolvimento ficam em repositório privado. Créditos e licenças acompanham o jogo.
+## Créditos
+
+Criado por **Ruan Sampaio** · Co-Produtor(a): **ZOIU** · Diretor Criativo: **Will Silfer**.
+
+Créditos dos assets e licenças acompanham o jogo e estão no menu. Este repositório distribui somente versões compiladas; as fontes do projeto permanecem privadas. Os modelos e texturas originais não são redistribuídos como pacotes de assets.
+
+Para relatar um problema, informe a versão, fita, local e os passos para reproduzir. Os testes automatizados cobrem progressão e regressões específicas; o feedback dos jogadores continua importante.
